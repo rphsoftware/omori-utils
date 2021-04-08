@@ -1,0 +1,15 @@
+{
+    "id": "eval",
+    "name": "Eval",
+    "description": "Run javascript in the game",
+    "version": "1.0.0",
+    "files": {
+      "plugins": ["Rph_Eval.js"],
+      "text": [],
+      "data": [],
+      "maps": [],
+      "assets": [],
+      "exec": []
+    }
+  }
+  

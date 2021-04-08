@@ -1,0 +1,15 @@
+{
+    "id": "sdkbypass",
+    "name": "SDK Bypass",
+    "description": "Bypasses steamworks & SDK mode detection for debugging.",
+    "version": "0.0.0",
+    "files": {
+      "plugins": ["Archeia_Steamworks.js", "sdk_bypass.js"],
+      "text": [],
+      "data": [],
+      "maps": [],
+      "assets": [],
+      "exec": []
+    }
+  }
+  

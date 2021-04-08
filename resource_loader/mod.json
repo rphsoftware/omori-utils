@@ -1,0 +1,14 @@
+{
+    "id":"resource_loader",
+    "name":"Resource Loader",
+    "description":"This mod does nothing by itself. However, any mod that depends on it may not work properly if you disable this.",
+    "version": "1.0.0",
+    "files": {
+      "plugins": ["RPH-ResourceLoader.js"],
+      "text": [],
+      "data": [],
+      "maps": [],
+      "assets": [],
+      "exec": []
+    }
+}

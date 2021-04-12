@@ -8,7 +8,7 @@
 //      window.splashExpanderRules.add("<name of image>");
 //   where <name of image> is the name of the new file you put into img/system/ without the .png extensionj
 // - After all that, run this script in a plugin
-// - Example rule: window.splashExpanderRules.add("trigger_warning_for_my_mod.png");
+// - Example rule: window.splashExpanderRules.add("trigger_warning_for_my_mod");
 //
 //
 // RULES HERE:

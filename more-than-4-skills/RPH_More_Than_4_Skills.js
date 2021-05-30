@@ -38,5 +38,11 @@
         }
 
         $gameScreen._SC_OVERRIDES_[actor] = amount;
+        
+        for (let i = 0; i < amount; i++) {
+          if (!$gameActors._data[actor]._equippedSkills[i]) {
+            $gameActors._data[actor]._equippedSkills[i] = 0;
+          }
+        }
     }
 }
